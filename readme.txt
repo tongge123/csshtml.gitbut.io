@@ -11,5 +11,8 @@ https://tongge123.github.io/jsjq.gitbut.io/lunbo/index.html      轮播图
 https://tongge123.github.io/jsjq.gitbut.io/lushi/index.html        炉石传说
 https://tongge123.github.io/jsjq.gitbut.io/plane/index.html       打飞机游戏
 https://tongge123.github.io/jsjq.gitbut.io/zhuanpan/index.html      转盘抽奖
-
+https://tongge123.github.io/ajax-json.gitbut.io/.     个人主页
+https://tongge123.github.io/ajax-json.gitbut.io/pubuliu.html    瀑布流照片
+https://tongge123.github.io/ajax-json.gitbut.io/tihuan.html       替换照片
+https://tongge123.github.io/ajax-json.gitbut.io/ylanniu.html      幽灵按钮
 
